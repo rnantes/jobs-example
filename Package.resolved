@@ -42,26 +42,26 @@
         "repositoryURL": "https://github.com/vapor/http.git",
         "state": {
           "branch": null,
-          "revision": "6973bf50dab8dd00e4daf8cb82ca72b33f5db016",
-          "version": "3.1.6"
+          "revision": "4c8c655932fdb409c11549eadabf27d3d61bc24c",
+          "version": "3.1.7"
         }
       },
       {
         "package": "Jobs",
-        "repositoryURL": "https://github.com/vapor-community/jobs.git",
+        "repositoryURL": "https://github.com/rnantes/jobs.git",
         "state": {
-          "branch": null,
-          "revision": "c897bd3ed82dab8b72630516876845a1dd5a22a3",
-          "version": "0.2.0"
+          "branch": "job-scheduler",
+          "revision": "77c2ace72809d82edde19a1d6f22647d8e9be005",
+          "version": null
         }
       },
       {
         "package": "JobsRedisDriver",
-        "repositoryURL": "https://github.com/vapor-community/jobs-redis-driver.git",
+        "repositoryURL": "https://github.com/rnantes/jobs-redis-driver.git",
         "state": {
-          "branch": null,
-          "revision": "607d74ad082aedbe29bdc594ff97460371b5cbe6",
-          "version": "0.2.0"
+          "branch": "job-scheduler",
+          "revision": "67cdbf90fd5a78b2c51e25a447c47c24b45c7530",
+          "version": null
         }
       },
       {

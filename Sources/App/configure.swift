@@ -34,4 +34,6 @@ public func configure(_ config: inout Config, _ env: inout Environment, _ servic
     }
     
     try jobs(&services)
+
+    print("config success")
 }
